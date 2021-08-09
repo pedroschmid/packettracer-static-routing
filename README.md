@@ -1,5 +1,5 @@
 
-# PACKETTRACER
+# PACKETTRACER | STATICK ROUTING
 
 This project is built with packettracer to create a network infrastructure of static routing.
 
